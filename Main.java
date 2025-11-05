@@ -6,5 +6,6 @@ public class Main {
         System.out.println(a + " * " + b + " = " + Operation.multiplication(a, b));
         System.out.println(a + " - " + b + " = " + Operation.soustraction(a, b));
         System.out.println(a + " + " + b + " = " + Operation.addition(a, b));
+        System.out.println("Au revoir");
     }
 }
